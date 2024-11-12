@@ -1,3 +1,13 @@
+## Integração OBS - Holyrics
+
+Explicação do código CSS
+
+### Passos iniciais
+1. Habilitar plugin Holyrics em Ferramentas - Plugin. 
+2. Adicionar fonte modelo Navegador no OBS, inserindo em URL o IP HTML 2 do Plugin.
+3. Largura e Altura sugeridas: 2000 x 600
+4. Inserir código no campo CSS Personalizado
+
 ### .bible-header-custom
 Define um cabeçalho personalizado com um layout em grid e estilo específico:
 
